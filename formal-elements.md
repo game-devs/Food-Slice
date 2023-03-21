@@ -2,9 +2,8 @@
 
 
 <div dir='rtl' lang='he'>
-# כותרת ראשית: שם המשחק
 
-**tagline:   slice the healthy food**
+**slice the healthy food**
 
 ## מהות המשחק
 
