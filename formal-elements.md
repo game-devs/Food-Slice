@@ -87,6 +87,8 @@
 
   ![הורדה](https://user-images.githubusercontent.com/10331972/226702517-0b164918-30da-4313-b5db-356ab35c29eb.jpeg)
 
+  ![maxresdefault](https://user-images.githubusercontent.com/10331972/226702730-3a28c47f-1646-4e9c-8f13-78d1425a1158.jpg)
+
 מבין הרכיבים הרשמיים, 
 איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק
 
