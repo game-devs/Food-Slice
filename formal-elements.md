@@ -81,12 +81,12 @@
 
 1- Fruit Ninja
 
-<img style="direction:ltr" width="600" height="300" src="https://user-images.githubusercontent.com/10331972/226702517-0b164918-30da-4313-b5db-356ab35c29eb.jpeg"/>
+<img style="direction: rtl;" width="600" height="300" src="https://user-images.githubusercontent.com/10331972/226702517-0b164918-30da-4313-b5db-356ab35c29eb.jpeg"/>
   
 
 2- iSlash
 
-<img width="600" height="300" src="https://user-images.githubusercontent.com/10331972/227374402-cac3f330-3ad2-4fd7-98d4-0136181c8093.jpeg" />
+<img style="direction: rtl;" width="600" height="300" src="https://user-images.githubusercontent.com/10331972/227374402-cac3f330-3ad2-4fd7-98d4-0136181c8093.jpeg" />
 
 
 
