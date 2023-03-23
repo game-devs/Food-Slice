@@ -85,9 +85,9 @@
 
 1- המשחק הכי קרוב לשלנו זה FRUIT NINJA אך ששם המטרה היא לחתוך כל סוגי הפירות אבל אצלינו זו יותר משחק לימודי כדי לעהביר מסר לשחקן מה כדאי לאכול ומה לא
 
-<img width="300" height="300" src="https://user-images.githubusercontent.com/10331972/226702517-0b164918-30da-4313-b5db-356ab35c29eb.jpeg"/>
+<img width="500" height="300" src="https://user-images.githubusercontent.com/10331972/226702517-0b164918-30da-4313-b5db-356ab35c29eb.jpeg"/>
   
-<img width="300" height="300" src="https://user-images.githubusercontent.com/10331972/226702730-3a28c47f-1646-4e9c-8f13-78d1425a1158.jpg"/>
+<img width="500" height="300" src="https://user-images.githubusercontent.com/10331972/226702730-3a28c47f-1646-4e9c-8f13-78d1425a1158.jpg"/>
 
 מבין הרכיבים הרשמיים, 
 איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק
