@@ -27,7 +27,7 @@
 ## itch.io
 
 - ProfileLink:- https://wissam111.itch.io/
-- GameLink:- https://wissam111.itch.io/wordstype
+- GameLink:- https://wissam111.itch.io/slice-food
 
 </br>
 
